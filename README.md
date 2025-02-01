@@ -1,4 +1,4 @@
-# Jamilly Araujo
+# <img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Jamilly Araujo
 
 Olá! Sou estudante de Sistemas de Informação no 2º período, atualmente venho me aprofundando em tecnologias como HTML, CSS, JavaScript, Python, Angular e React.js com o objetivo de construir uma carreira no desenvolvimento front-end no futuro. 
 Tenho uma formação técnica em Logística, o que me proporciona uma visão estratégica e analítica, habilidades que me ajudam muito em meus projetos e no desenvolvimento de soluções eficientes.
@@ -24,3 +24,10 @@ Tenho uma formação técnica em Logística, o que me proporciona uma visão est
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/005jamilly/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@jam1lly/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c203fc?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jam1lly.v/)
+
+
+##
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=M1llyz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M1llyz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
