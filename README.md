@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Jamilly Araujo
+# Jamilly Araujo
 
 Olá! Sou estudante de Sistemas de Informação no 2º período, atualmente venho me aprofundando em tecnologias como HTML, CSS, JavaScript, Python, Angular e React.js com o objetivo de construir uma carreira no desenvolvimento front-end no futuro. 
 Tenho uma formação técnica em Logística, o que me proporciona uma visão estratégica e analítica, habilidades que me ajudam muito em meus projetos e no desenvolvimento de soluções eficientes.
