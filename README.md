@@ -1,6 +1,6 @@
 # Jamilly Araujo
 
-Olá! Sou estudante de Sistemas de Informação no 4º semestre, e uma entusiasta de tecnologia em constante aprendizado. Atualmente, venho explorando o universo de **Data Analytics e Ciência de Dados**, aprofundando meus conhecimentos em **Python** e **Estatística**, sem deixar de lado minha base em desenvolvimento web (HTML, CSS, JavaScript).
+Olá! Sou estudante de Sistemas de Informação no 5º semestre, e uma entusiasta de tecnologia em constante aprendizado. Atualmente, venho explorando o universo de **Data Analytics e Ciência de Dados**, aprofundando meus conhecimentos em **Python** e **Estatística**, sem deixar de lado minha base em desenvolvimento web (HTML, CSS, JavaScript).
 Tenho uma formação técnica em **Logística**, o que me proporciona uma visão estratégica e analítica de processos, habilidade que combino com a tecnologia para transformar dados em soluções estratégicas e desenvolver soluções eficientes e inovadoras.
 
 ## 💡Tecnologias
