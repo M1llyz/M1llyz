@@ -13,8 +13,6 @@ Sou estudante de Sistemas de Informação com foco em Engenharia de Dados, explo
   <img title="SQL" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 </div>
 
----
-
 ## ⚙️Ferramentas
 <div align="left">
   &nbsp;&nbsp;<img title="AWS" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>&nbsp;&nbsp;&nbsp;
