@@ -10,7 +10,7 @@ Sou estudante de Sistemas de Informação com foco em Engenharia de Dados, explo
   &nbsp;&nbsp;<img title="Python" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>&nbsp;&nbsp;
   <img title="Pandas" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>&nbsp;&nbsp;
   <img title="NumPy" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>&nbsp;&nbsp;&nbsp;
-  <img title="SQL" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img title="Selenium" height="35" src="https://devicon-website.vercel.app/api/selenium/original.svg?color=%23488FE3"/>
 </div>
 
 ## ⚙️Ferramentas
