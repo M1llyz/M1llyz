@@ -1,6 +1,6 @@
 ## Olá, seja muito bem-vindo ao meu perfil! Vai um café aí? ☕
 
-Sou estudante de Sistemas de Informação com foco em Engenharia de Dados, explorando na prática, por meio de projetos com Python e SQL, como os dados podem ser coletados, transformados e organizados, principalmente em processos de ETL. Tenho direcionado meus estudos para entender como pipelines de dados são estruturados e como esses processos podem ser escalados em ambientes de cloud, incluindo o uso de AWS, além de explorar formas de tornar esses processos mais eficientes por meio da automação.
+Sou estudante de Sistemas de Informação com foco em Engenharia de Dados, explorando na prática, por meio de projetos com Python, SQL e APIs REST, como os dados podem ser coletados, transformados e organizados, principalmente em processos de ETL. Tenho direcionado meus estudos para entender como pipelines de dados são estruturados e como esses processos podem ser escalados em ambientes de cloud, incluindo o uso de AWS e GCP, além de explorar formas de tornar processos mais eficientes por meio de automações.
 
 ---
 
@@ -10,15 +10,20 @@ Sou estudante de Sistemas de Informação com foco em Engenharia de Dados, explo
   &nbsp;&nbsp;<img title="Python" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>&nbsp;&nbsp;
   <img title="Pandas" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>&nbsp;&nbsp;
   <img title="NumPy" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>&nbsp;&nbsp;&nbsp;
-  <img title="Selenium" height="35" src="https://devicon-website.vercel.app/api/selenium/original.svg?color=%23488FE3"/>
+  <img title="Selenium" height="35" src="https://devicon-website.vercel.app/api/selenium/original.svg?color=%23488FE3"/>&nbsp;&nbsp;&nbsp;
+  <img title="Javascript" height="35" src="https://devicon-website.vercel.app/api/javascript/original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img title="Javascript" height="35" src="https://devicon-website.vercel.app/api/nodejs/original.svg"/>
+  
 </div>
 
 ## ⚙️Ferramentas
 <div align="left">
   &nbsp;&nbsp;<img title="AWS" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>&nbsp;&nbsp;&nbsp;
+  <img title="GCP" height="35" src="https://devicon-website.vercel.app/api/googlecloud/original.svg"/>&nbsp;&nbsp; 
   <img title="Git" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>&nbsp;&nbsp;
   <img title="SQL Server" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>&nbsp;&nbsp;
-  <img title="Jupyter" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
+  <img title="Jupyter" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>&nbsp;&nbsp;
+  <img title="n8n" height="35" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 </div>
 
 ---
@@ -30,6 +35,17 @@ Esse é o meu laboratório de estudos, um espaço onde compartilho meu aprendiza
 Aqui você vai encontrar um pouco de tudo que tenho ou já tive interesse em aprender, mas com o tempo, a ideia é que meus projetos reflitam cada vez mais o meu foco e a área em que pretendo construir minha carreira.
 
 ---
+
+## 🚀 Projetos em destaque
+
+### Credit Risk Data Pipeline + Evolução Cloud-Native
+Pipeline de dados para análise de risco de crédito, desenvolvido inicialmente com Python, SQL Server e ETL local, e evoluído para uma versão cloud-native na GCP com Cloud Storage, BigQuery e dashboard no Looker Studio.
+
+### Assistente de IA para automação de Wiki Acadêmica
+Agente de IA integrado ao Notion para geração, revisão e publicação automatizada de resumos acadêmicos, criado para apoiar a organização de materiais de estudo e reduzir o trabalho manual de manutenção da wiki da turma.
+
+### Automações e Integrações
+Workflows automatizados com n8n para integrar ferramentas, APIs e processos repetitivos, explorando automações aplicadas à produtividade, organização de tarefas e conexão entre sistemas.
 
 ## 🌐Conecte-se comigo!
 
