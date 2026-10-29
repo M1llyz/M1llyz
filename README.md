@@ -2,8 +2,6 @@
 
 Sou estudante de Sistemas de Informação e uma curiosa nata com foco em Engenharia de Dados, explorando na prática, por meio de projetos com Python, SQL e APIs REST, como os dados podem ser coletados, transformados e organizados, principalmente em processos de ETL. Tenho direcionado meus estudos e experiências para entender como integrações e pipelines de dados são estruturados e como esses processos podem ser escalados em ambientes cloud, incluindo o uso de AWS e GCP, além de explorar formas de tornar processos mais eficientes por meio de automações.
 
----
-
 ## 💡Tecnologias
 
 <div align="left">
@@ -28,15 +26,11 @@ Sou estudante de Sistemas de Informação e uma curiosa nata com foco em Engenha
   <img title="n8n" height="35" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 </div>
 
----
-
 ## 👩🏻‍💻 Sobre esse GitHub
 
 Esse é o meu laboratório de estudos, um espaço onde compartilho meu aprendizado na prática, com erros, alguns tropeços, acertos e minha evolução ao longo do caminho.
 
 Aqui você vai encontrar um pouco de tudo que tenho ou já tive interesse em aprender, mas com o tempo, a ideia é que meus projetos reflitam cada vez mais o meu foco e a área em que pretendo construir minha carreira.
-
----
 
 ## 🚀 Projetos em destaque
 
@@ -44,7 +38,7 @@ Aqui você vai encontrar um pouco de tudo que tenho ou já tive interesse em apr
 Pipeline de dados para análise de risco de crédito, desenvolvido inicialmente com Python, SQL Server e ETL local, e evoluído para uma versão cloud-native na GCP com Cloud Storage, BigQuery e dashboard no Looker Studio.
 
 ### Assistente de IA para automação de Wiki Acadêmica
-Agente de IA integrado ao Notion para geração, revisão e publicação automatizada de resumos acadêmicos, criado para apoiar a organização de materiais de estudo e reduzir o trabalho manual de manutenção da wiki da turma.
+Agente de IA integrado ao Notion para geração, revisão e publicação automatizada de resumos acadêmicos, criado para apoiar a organização de materiais de estudo e reduzir o trabalho manual de manutenção da wiki da turma de Sistemas de Informação em que represento.
 
 ### Automações e Integrações
 Workflows automatizados com n8n para integrar ferramentas, APIs e processos repetitivos, explorando automações aplicadas à produtividade, organização de tarefas e conexão entre sistemas.
