@@ -1,6 +1,6 @@
-## Olá, seja muito bem-vindo ao meu perfil! Vai um café aí? ☕
+## Olá, seja muito bem-vindo, eu sou a Jamilly! Vai um café aí? ☕
 
-Sou estudante de Sistemas de Informação com foco em Engenharia de Dados, explorando na prática, por meio de projetos com Python, SQL e APIs REST, como os dados podem ser coletados, transformados e organizados, principalmente em processos de ETL. Tenho direcionado meus estudos para entender como pipelines de dados são estruturados e como esses processos podem ser escalados em ambientes de cloud, incluindo o uso de AWS e GCP, além de explorar formas de tornar processos mais eficientes por meio de automações.
+Sou estudante de Sistemas de Informação e uma curiosa nata com foco em Engenharia de Dados, explorando na prática, por meio de projetos com Python, SQL e APIs REST, como os dados podem ser coletados, transformados e organizados, principalmente em processos de ETL. Tenho direcionado meus estudos e experiências para entender como integrações e pipelines de dados são estruturados e como esses processos podem ser escalados em ambientes cloud, incluindo o uso de AWS e GCP, além de explorar formas de tornar processos mais eficientes por meio de automações.
 
 ---
 
@@ -10,17 +10,19 @@ Sou estudante de Sistemas de Informação com foco em Engenharia de Dados, explo
   &nbsp;&nbsp;<img title="Python" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>&nbsp;&nbsp;
   <img title="Pandas" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>&nbsp;&nbsp;
   <img title="NumPy" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>&nbsp;&nbsp;&nbsp;
-  <img title="Selenium" height="35" src="https://devicon-website.vercel.app/api/selenium/original.svg?color=%23488FE3"/>&nbsp;&nbsp;&nbsp;
-  <img title="Javascript" height="35" src="https://devicon-website.vercel.app/api/javascript/original.svg"/>&nbsp;&nbsp;&nbsp;
-  <img title="Javascript" height="35" src="https://devicon-website.vercel.app/api/nodejs/original.svg"/>
+  <img title="Selenium" height="35" src="https://skillicons.dev/icons?i=selenium"/>&nbsp;&nbsp;
+  <img title="JavaScript" height="35" src="https://skillicons.dev/icons?i=javascript"/>&nbsp;&nbsp;
+  <img title="NodeJS" height="35" src="https://skillicons.dev/icons?i=nodejs"/>
   
 </div>
 
 ## ⚙️Ferramentas
 <div align="left">
-  &nbsp;&nbsp;<img title="AWS" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>&nbsp;&nbsp;&nbsp;
-  <img title="GCP" height="35" src="https://devicon-website.vercel.app/api/googlecloud/original.svg"/>&nbsp;&nbsp; 
-  <img title="Git" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>&nbsp;&nbsp;
+  <img title="AWS" height="35" src="https://skillicons.dev/icons?i=aws"/>&nbsp;&nbsp;
+  <img title="GCP" height="35" src="https://skillicons.dev/icons?i=gcp"/>&nbsp;&nbsp; 
+  <img title="Git" height="35" src="https://skillicons.dev/icons?i=git"/>&nbsp;&nbsp;
+  <img title="MySQL" height="35" src="https://skillicons.dev/icons?i=mysql"/>&nbsp;&nbsp;
+  <img title="Docker" height="35" src="https://skillicons.dev/icons?i=docker"/>&nbsp;&nbsp;
   <img title="SQL Server" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>&nbsp;&nbsp;
   <img title="Jupyter" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>&nbsp;&nbsp;
   <img title="n8n" height="35" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
